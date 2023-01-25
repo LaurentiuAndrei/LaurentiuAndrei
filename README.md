@@ -1,16 +1,25 @@
-### Hi there 👋
+👋 Hi, I'm Laurentiu, a data enthusiast looking for a full time remote job as a Data Analyst.
 
 <!--
-**LaurentiuAndrei/LaurentiuAndrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :bust_in_silhouette: About me
+- I like trains
+- Always learning new things
 
-Here are some ideas to get you started:
+## :wrench: Skills and Tools
+- **Tools**: Tableau, BigQuery, SQL
+- **Skills**: Problem Solving, Critical 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## :ledger: Projects
+- Chicago Employee Analysis
+- project 2
+- project 3
+
+## :mag: Currently working on
+- learning X,Y,Z
+- taking X,Y,Z course
 -->
+
+## :mailbox: Connect with me
+- [LinkedIn](https://linkedin.com/in/laurentiuandrei)
+<!-- - [Website](https://laurentiuandrei.com) 
+- [Email](mailto:laurentiu@laurentiuandrei.com) -->
