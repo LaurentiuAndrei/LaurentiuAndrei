@@ -1,25 +1,23 @@
-👋 Hi, I'm Laurentiu, a data enthusiast looking for a full time remote job as a Data Analyst.
+👋 Hi, I'm Laurentiu, long time data nerd looking for a full time job as a Data Analyst.
 
-<!--
 ## :bust_in_silhouette: About me
-- I like trains
-- Always learning new things
+- Been playing with data for over a decade now, I just never realized it could be a career
+- Analytical, logical, rational type of personality
+- Always learning something new
 
-## :wrench: Skills and Tools
-- **Tools**: Tableau, BigQuery, SQL
-- **Skills**: Problem Solving, Critical 
+## :wrench: Tools I use and I am confident with
+- Excel
+- SQL
+- Tableau
+- Big Query
 
 ## :ledger: Projects
-- Chicago Employee Analysis
-- project 2
-- project 3
+- [Chicago Employee Analysis](https://github.com/LaurentiuAndrei/Chicago_Employee_Analysis)
 
-## :mag: Currently working on
-- learning X,Y,Z
-- taking X,Y,Z course
--->
+## :mag: Currently learning about
+- [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)
+- [Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization)
 
 ## :mailbox: Connect with me
 - [LinkedIn](https://linkedin.com/in/laurentiuandrei)
-<!-- - [Website](https://laurentiuandrei.com) 
-- [Email](mailto:laurentiu@laurentiuandrei.com) -->
+- [Website](https://laurentiuandrei.com)
