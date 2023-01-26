@@ -17,6 +17,7 @@
 ## :mag: Currently learning about
 - [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)
 - [Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization)
+- [From Data to Insights with Google Cloud Specialization](https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform)
 
 ## :mailbox: Connect with me
 - [LinkedIn](https://linkedin.com/in/laurentiuandrei)
