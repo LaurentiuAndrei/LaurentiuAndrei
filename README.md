@@ -4,6 +4,7 @@
 - Been playing with data for over a decade now, I just never realized it could be a career
 - Analytical, logical, rational type of personality
 - Always learning something new
+- Making Data Analytics videos on :video_camera: [YouTube](https://www.youtube.com/channel/UCWhOhFSyyCGz1qg3cm59tTw)
 
 ## :wrench: Tools I use and I am confident with
 - Excel
